@@ -26,7 +26,7 @@ Technical features:
 - FireBase/ Realtime (saving current user's portfolio)
 - Storage Firebase (saving images)
 - Cocopoad (Packages)
-- SwiftUI interface
+- Swift interface
 - Safe coding!!! ("if let" and "guard" statements to avoid crashes)
 
 
