@@ -1,6 +1,7 @@
 # GroupKit
 A simple messaging app,where you can create a chat room and on the same time share a video to visualize or a book to read together.
 
+Need to add Podfile before run
 
 
 Plan:
