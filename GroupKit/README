@@ -1,0 +1,61 @@
+
+
+
+
+App features Done:
+- Work with the last project messaging app and add feature:
+- Chat on 1 on 1 with any User
+- send and receive pictures or video
+- Delete or add a member for conversation
+- Send location
+
+
+App features to work:
+-Create a group
+-Choose which user add or put every user on the group
+-Select anime from a list
+    or
+-add the anime already on the group
+-watch on same time : Real time
+
+
+
+Technical features:
+- MCV Architecture
+- UI: 70% programatic and 30% storyboard(navigator)
+- FireBase/ Realtime (saving current user's portfolio)
+- Storage Firebase (saving images)
+- Cocopoad (Packages)
+- SwiftUI interface
+- Safe coding!!! ("if let" and "guard" statements to avoid crashes)
+
+
+
+Cocopoad:
+
+# Firebase
+   Firebase/Auth: SDK provides methods to create and manage users that use their email addresses and passwords to sign in.
+   
+   Firebase/Database : a cloud-hosted NoSQL database that lets you store and sync data between your users in realtime.
+   
+   Firebase/Storage : lets you upload and share user generated content, such as images and video, which allows you to build rich media content into your apps.
+   
+   Firebase/Analytics: a free app which helps its users to get an insight into the usage of their app and how the users of their app behave
+   
+   Firebase/Crashlytics: helps you track, prioritize, and fix stability issues that erode your app quality. Crashlytics saves you troubleshooting time by intelligently grouping crashes and highlighting the circumstances that lead up to them.
+   
+   
+   Firebase/Firestore: Cloud Firestore also features richer, faster queries and scales further than the Realtime Database.
+
+
+
+# Message
+ MessageKit: A community-driven replacement for JSQMessagesViewController. A powerful InputAccessoryView ideal for messaging applications.
+ 
+ JGProgressHUD
+ -to give the user an indication that content is being loaded while the app sends a network request to get new data.
+ -An elegant and simple progress HUD for iOS and tvOS, compatible with Swift and ObjC
+ 
+ RealmSwift: Realm Swift is an easy to use alternative to SQLite and Core Data that makes persisting, querying, and syncing data as simple as working directly with native Swift objects.
+ 
+ SDWebImage:  Asynchronous image downloader with cache support as a UIImageView category.
